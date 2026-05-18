@@ -96,3 +96,5 @@ To bridge the gap between simulation and hardware deployment on the physical Pen
 *Figure 1: Online reference image of the Penguin Pi mobile robot setup alongside the digital twin simulation environment used to benchmark path planning algorithms.*
 
 
+## Team & Collaboration
+This project was developed as a collaborative team effort. This repository is a personal documentation hub that highlights the collective engineering methodologies, architecture, and system outcomes achieved by the group.
