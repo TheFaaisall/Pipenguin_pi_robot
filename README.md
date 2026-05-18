@@ -1,9 +1,9 @@
-# 🐧 Monash University — Autonomous Mobile Robotics Portfolio
+# 🐧 Monash University - Autonomous Mobile Robotics Portfolio
 ## Intelligent Robotics & Autonomous Path Planning (Penguin Pi Platform)
 
 This repository showcases the system architecture, algorithmic design, and deployment methodologies for an intelligent mobile robotics project completed as part of my engineering degree at **Monash University**. 
 
-> ⚠️ **Academic Integrity Notice:** In accordance with university policies, the complete underlying production source code is private and cannot be publically distributed. This documentation serves as a professional portfolio demonstrating engineering competency in integrating artificial perception, strategic reasoning, and robotic action. Visual telemetry, simulation footage, and system architecture are documented below to demonstrate operational results.
+> ⚠️ **Academic Integrity Notice:** In accordance with university policies, the complete underlying production source code is private and cannot be publicly distributed. This documentation serves as a professional portfolio demonstrating engineering competency in integrating artificial perception, strategic reasoning, and robotic action. Visual telemetry, simulation footage, and system architecture are documented below to demonstrate operational results.
 
 ---
 
@@ -35,7 +35,7 @@ To bridge the gap between low-level hardware abstraction and high-level algorith
 import time
 from penguin_pi import PiBot
 
-# 1. Initialize the robot connection via its network IP address
+# 1. Initialise the robot connection via its network IP address
 robot = PiBot(ip_address='192.168.3.4')
 
 try:
