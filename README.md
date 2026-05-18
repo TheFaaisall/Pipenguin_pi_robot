@@ -95,7 +95,4 @@ To bridge the gap between simulation and hardware deployment on the physical Pen
 
 *Figure 1: Online reference image of the Penguin Pi mobile robot setup alongside the digital twin simulation environment used to benchmark path planning algorithms.*
 
-### 🚀 Autonomous Execution & Telemetry
-<img src="images/my_robot_run.gif" alt="Autonomous Path Planning Video" width="600">
 
-*Figure 2: Recorded telemetry demonstrating real-time obstacle avoidance, autonomous path generation, and target acquisition on the physical Penguin Pi mobile robot.*
