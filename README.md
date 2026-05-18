@@ -90,7 +90,7 @@ To bridge the gap between simulation and hardware deployment on the physical Pen
 ## 🎥 Media & System Demonstrations
 
 ### 💻 Physical Setup & Simulation Environment
-<img src="images/penguin_pi_online.jpg" alt="Penguin Pi Robot Setup" width="600">
+
 
 *Figure 1: Online reference image of the Penguin Pi mobile robot setup alongside the digital twin simulation environment used to benchmark path planning algorithms.*
 
