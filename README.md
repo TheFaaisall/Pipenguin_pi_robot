@@ -16,7 +16,7 @@ The project required the end-to-end development of an intelligent agent capable 
 
 ---
 
-## 🛠️ Technical Stack & ATS Keywords
+## 🛠️ Technical Stack 
 * **Hardware Platform:** Penguin Pi Mobile Robot (Differential-Drive Chassis, Raspberry Pi Single Board Computer, Onboard RGB Camera, Embedded Custom I/O Board).
 * **Languages & Frameworks:** Python, Linux (Raspbian/Ubuntu), Bash Scripting.
 * **DevOps & Infrastructure:** Docker, Containerisation, Cross-Platform Architecture, Environment Reproducible Builds.
