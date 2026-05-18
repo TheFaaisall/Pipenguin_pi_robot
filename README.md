@@ -1,5 +1,5 @@
 # Autonomous Mobile Robotics Portfolio
-## Intelligent Robotics & Autonomous Path Planning (Penguin Pi Platform)
+## Intelligent Robotics & Autonomous Path Planning (Penguin Pi Robot)
 
 This repository showcases the system architecture, algorithmic design, and deployment methodologies for an intelligent mobile robotics project completed as part of my engineering degree at **Monash University**. 
 
